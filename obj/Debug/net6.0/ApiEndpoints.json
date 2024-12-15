@@ -1,0 +1,165 @@
+[
+  {
+    "ContainingType": "LabtopInfo.Controllers.LabtopController",
+    "Method": "GetAllLabtops",
+    "RelativePath": "api/labtops",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LabtopInfo.Model.LabtopDto, LabtopInfo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LabtopInfo.Controllers.LabtopController",
+    "Method": "UpdateLabtiopCatgoris",
+    "RelativePath": "api/labtops",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "labtopId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "labtopCategoryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "patchDocument",
+        "Type": "Microsoft.AspNetCore.JsonPatch.Operations.Operation[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LabtopInfo.Controllers.LabtopController",
+    "Method": "DeleteLabtopCAtegor",
+    "RelativePath": "api/labtops",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "labtopId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "labtopCategoryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LabtopInfo.Controllers.LabtopController",
+    "Method": "GetLabtopCategorisForlabtop",
+    "RelativePath": "api/labtops/{labtopId}/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "labtopId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LabtopInfo.Model.LabtopCategoryDto, LabtopInfo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LabtopInfo.Controllers.LabtopController",
+    "Method": "GetlabtoCategoryForLabtop",
+    "RelativePath": "api/labtops/{labtopId}/categories/{labtopCategoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "labtopId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "labtopCategoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LabtopInfo.Model.LabtopCategoryDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LabtopInfo.Controllers.LabtopController",
+    "Method": "CrationLabtopcategoris",
+    "RelativePath": "api/labtops/categorispost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "labtopId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "labtopCategoris",
+        "Type": "LabtopInfo.Model.LabtopCategorisForCration",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LabtopInfo.Model.LabtopCategoryDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

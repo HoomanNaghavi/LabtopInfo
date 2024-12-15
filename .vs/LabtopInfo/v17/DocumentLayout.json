@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|c:\\users\\digi max\\desktop\\test of api\\labtopinfo\\controllers\\labtopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|solutionrelative:controllers\\labtopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|c:\\users\\digi max\\desktop\\test of api\\labtopinfo\\repository\\ilabtoprepositoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|solutionrelative:repository\\ilabtoprepositoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|c:\\users\\digi max\\desktop\\test of api\\labtopinfo\\repository\\labtoprepositoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|solutionrelative:repository\\labtoprepositoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|c:\\users\\digi max\\desktop\\test of api\\labtopinfo\\entitis\\labtopcategoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|solutionrelative:entitis\\labtopcategoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|c:\\users\\digi max\\desktop\\test of api\\labtopinfo\\profile\\mapingrprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|solutionrelative:profile\\mapingrprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|c:\\users\\digi max\\desktop\\test of api\\labtopinfo\\model\\labtopcategorisforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|solutionrelative:model\\labtopcategorisforupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|c:\\users\\digi max\\desktop\\test of api\\labtopinfo\\model\\labtopcategorisforcration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAF1DB-4BCD-40F3-A41D-13C4C656E273}|LabtopInfo.csproj|solutionrelative:model\\labtopcategorisforcration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabtopController.cs",
+              "DocumentMoniker": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Controllers\\LabtopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LabtopController.cs",
+              "ToolTip": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Controllers\\LabtopController.cs",
+              "RelativeToolTip": "Controllers\\LabtopController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwIIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:55:06.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LabtopCategorisForUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Model\\LabtopCategorisForUpdate.cs",
+              "RelativeDocumentMoniker": "Model\\LabtopCategorisForUpdate.cs",
+              "ToolTip": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Model\\LabtopCategorisForUpdate.cs",
+              "RelativeToolTip": "Model\\LabtopCategorisForUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:49:59.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabtopCategoris.cs",
+              "DocumentMoniker": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Entitis\\LabtopCategoris.cs",
+              "RelativeDocumentMoniker": "Entitis\\LabtopCategoris.cs",
+              "ToolTip": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Entitis\\LabtopCategoris.cs",
+              "RelativeToolTip": "Entitis\\LabtopCategoris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:38:17.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabtopCategorisForCration.cs",
+              "DocumentMoniker": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Model\\LabtopCategorisForCration.cs",
+              "RelativeDocumentMoniker": "Model\\LabtopCategorisForCration.cs",
+              "ToolTip": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Model\\LabtopCategorisForCration.cs",
+              "RelativeToolTip": "Model\\LabtopCategorisForCration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:37:45.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapingrProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Profile\\MapingrProfile.cs",
+              "RelativeDocumentMoniker": "Profile\\MapingrProfile.cs",
+              "ToolTip": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Profile\\MapingrProfile.cs",
+              "RelativeToolTip": "Profile\\MapingrProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T08:46:21.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabtopRepositoris.cs",
+              "DocumentMoniker": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Repository\\LabtopRepositoris.cs",
+              "RelativeDocumentMoniker": "Repository\\LabtopRepositoris.cs",
+              "ToolTip": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Repository\\LabtopRepositoris.cs",
+              "RelativeToolTip": "Repository\\LabtopRepositoris.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:55:10.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILabtopRepositoris.cs",
+              "DocumentMoniker": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Repository\\ILabtopRepositoris.cs",
+              "RelativeDocumentMoniker": "Repository\\ILabtopRepositoris.cs",
+              "ToolTip": "C:\\Users\\Digi Max\\Desktop\\test of api\\LabtopInfo\\Repository\\ILabtopRepositoris.cs",
+              "RelativeToolTip": "Repository\\ILabtopRepositoris.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T07:55:08.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
