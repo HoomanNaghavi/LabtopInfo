@@ -4,7 +4,7 @@ namespace LabtopInfo.Repository
 {
     public interface ILabtopRepositoris
     {
-         Task<Task<List<Labtops>>> GetLabtopsAsync();
+         Task<List<Labtops>> GetLabtopsAsync();
          Task<bool> ExistlabtopsAysync(int labtopId);
          Task<Labtops?> GetLabtopsAsync(int labtopId, bool labtopCategory);
          Task<LabtopCategoris> GetLabtopCategoryForlabtopsAsync(int labtopId, int labtopsCategoryId);

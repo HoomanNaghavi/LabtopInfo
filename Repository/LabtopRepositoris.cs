@@ -16,9 +16,9 @@ namespace LabtopInfo.Repository
 
        
 
-        public async Task<Task<List<Labtops>>> GetLabtopsAsync()
+        public async Task<List<Labtops>> GetLabtopsAsync()
         {
-            return _contexts.labtops.OrderBy(c => c.Name).ToListAsync();
+            return await _contexts.labtops.OrderBy(c => c.Name).ToListAsync();
         }
 
         public async Task<bool> ExistlabtopsAysync(int labtopId)
